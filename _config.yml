@@ -70,6 +70,12 @@ defaults:
       label: "Français"
   -
     scope:
+      path: "it"
+    values:
+      lang: "it"
+      label: "Italiano"
+  -
+    scope:
       path: "pt"
     values:
       lang: "pt"
