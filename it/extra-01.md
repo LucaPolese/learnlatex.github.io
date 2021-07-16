@@ -1,20 +1,20 @@
 ---
 layout: "lezione"
 lang: "it"
-title: "Presentazione di LaTeX - Esempi per l'approfondimento"
+title: "Vetrina di LaTeX - Esempi per l'approfondimento"
 description: "Questa lezione mostra esempi assortiti di altri popolari pacchetti LaTeX che non sono stati trattati nelle lezioni principali."
-toc-anchor-text: "Presentazione di LaTeX "
-toc-description: "Esempi per studi approfonditi"
+toc-anchor-text: "Vetrina di LaTeX"
+toc-description: "Esempi per studi approfonditi."
 ---
 
-# Esempi avanzati
+# Vetrina
 
 <span
   class="summary">Questa lezione mostra degli esempi assortiti di altri popolari pacchetti LaTeX che non sono stati trattati nelle lezioni principali.
 
 Questo corso ha dato una panoramica generale delle caratteristiche principali di LaTeX.
 LaTeX ha una vasta gamma di pacchetti di estensione ed è utilizzato in innumerevoli ambiti.
-Riportiamo qui alcuni esempi aggiuntivi, senza spiegazioni, ma con dei link alla documentazione del pacchetti usati su [texdoc.org](https://texdoc.org).
+Riportiamo qui alcuni esempi aggiuntivi, senza spiegazioni, ma con dei link alla documentazione dei pacchetti usati su [texdoc.org](https://texdoc.org).
 Tutti gli esempi mostrati sono stati presi dalla documentazione in questione, a meno che non sia indicato diversamente.
 
 <p
@@ -55,7 +55,7 @@ Pacchetto: [`tikz`](https://texdoc.org/pkg/tikz)
 {% include extra-01-example-tikz.md %}
 
 
-## Tracciamento di funzioni matematiche
+## Tracciatura di funzioni matematiche
 
 Pacchetto: [`pgfplots`](https://texdoc.org/pkg/pgfplots)
 
