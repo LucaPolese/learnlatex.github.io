@@ -1,24 +1,24 @@
 ---
 layout: "lezione"
 lang: "it"
-title: "Vetrina di LaTeX - Esempi per l'approfondimento"
+title: "Vetrina di LaTeX - Esempi di approfondimento"
 description: "Questa lezione mostra esempi assortiti di altri popolari pacchetti LaTeX che non sono stati trattati nelle lezioni principali."
 toc-anchor-text: "Vetrina di LaTeX"
-toc-description: "Esempi per studi approfonditi."
+toc-description: "Esempi per l'approfondimento"
 ---
 
 # Vetrina
 
 <span
-  class="summary">Questa lezione mostra degli esempi assortiti di altri popolari pacchetti LaTeX che non sono stati trattati nelle lezioni principali.
+  class="summary">Questa lezione mostra degli esempi assortiti di altri popolari pacchetti LaTeX che non sono stati trattati nelle lezioni principali.</span>
 
-Questo corso ha dato una panoramica generale delle caratteristiche principali di LaTeX.
+Questo corso ha fornito una panoramica generale delle caratteristiche principali di LaTeX.
 LaTeX ha una vasta gamma di pacchetti di estensione ed è utilizzato in innumerevoli ambiti.
-Riportiamo qui alcuni esempi aggiuntivi, senza spiegazioni, ma con dei link alla documentazione dei pacchetti usati su [texdoc.org](https://texdoc.org).
+Riportiamo qui alcuni esempi aggiuntivi, senza ulteriori spiegazioni, ma con dei link alla documentazione dei pacchetti usati su [texdoc.org](https://texdoc.org).
 Tutti gli esempi mostrati sono stati presi dalla documentazione in questione, a meno che non sia indicato diversamente.
 
 <p
-  class="hint">Si noti che questa integrazione non è intesa come una promozione del pacchetto rispetto ad altri pacchetti simili, ma il nostro obiettivo è quello di prendere un piccolo campione che mostri una gamma di aree altrimenti non coperte in questo corso.</p>
+  class="hint">Si noti che questa integrazione non è intesa come una promozione di un pacchetto rispetto ad altri pacchetti simili, ma il nostro obiettivo è quello di prendere un piccolo campione che mostri una gamma di aree altrimenti non coperte in questo corso.</p>
 
 ## Chimica
 
